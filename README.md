@@ -1,6 +1,6 @@
 # Time-To-Recovery Modeling for Photovoltaic Cells
 
-> **Note:** This project was completed as part of my practicum for the **Master of Science in Computational Analytics** program at **Georgia Tech**, in collaboration with **Sandia National Laboratories**.
+> This project was completed as part of my practicum for the **Master of Science in Computational Analytics** program at **Georgia Tech**, in collaboration with **Sandia National Laboratories**.
 
 This project presents a modeling framework to estimate the **time-to-recovery** of utility-scale photovoltaic (PV) systems following adverse weather events. While much of the existing literature addresses degradation and fault detection in PV systems, the **recovery phase**—how long it takes for system performance to return to normal—remains underexplored. This work addresses that gap using a combination of **survival analysis** and **machine learning**.
 
